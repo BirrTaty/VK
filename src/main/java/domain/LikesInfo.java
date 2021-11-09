@@ -2,6 +2,8 @@ package domain;
 
 public class LikesInfo {
     private int numberOfLikes;
-    private String likeMark;
+    private int likeMark;
     private String listWhoLiked;
+    private int canPublish;
+    private int canLike;
 }
